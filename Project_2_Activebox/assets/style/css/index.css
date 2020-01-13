@@ -615,6 +615,9 @@ body {
   .peoples .column_people {
     width: 100%;
   }
+  .footer .container .share .communication_people .people_social .fab{
+    font-size: 14px;
+  }
   .blond .blond_photo {
     background-position: right;
     height: 380px;
